@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CenPhone</string>
+    
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="continue_text">Continue</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_title">Welcome to CenPhone</string>
+    <string name="welcome_subtitle">Your One-Stop Shop for Premium Phones</string>
+    <string name="order_now">Order Now</string>
+    
+    <!-- Brands Screen -->
+    <string name="select_brand">Select Brand</string>
+    <string name="choose_brand">Choose Your Preferred Brand</string>
+    <string name="brand_selection_subtitle">Select from our collection of premium phone brands</string>
+    
+    <!-- Phone Model Screen -->
+    <string name="select_model">Select Model</string>
+    <string name="choose_model">Choose Your Phone Model</string>
+    <string name="model_selection_subtitle">Select from our latest collection</string>
+    
+    <!-- Cart Screen -->
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="cart_empty_message">Add some items to your cart to proceed with checkout</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="total">Total:</string>
+    
+    <!-- Checkout Screen -->
+    <string name="checkout">Checkout</string>
+    <string name="delivery_information">Delivery Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="street_address">Street Address</string>
+    <string name="city">City</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="continue_to_delivery">Continue to Delivery Options</string>
+    
+    <!-- Delivery Screen -->
+    <string name="choose_delivery">Choose Delivery</string>
+    <string name="select_delivery">Select Delivery Method</string>
+    <string name="delivery_selection_subtitle">Choose your preferred delivery option</string>
+    <string name="standard_delivery">Standard Delivery</string>
+    <string name="express_delivery">Express Delivery</string>
+    <string name="same_day_delivery">Same Day Delivery</string>
+    <string name="continue_to_payment">Continue to Payment</string>
+    
+    <!-- Payment Screen -->
+    <string name="payment">Payment</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_holder">Card Holder Name</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvv">CVV</string>
+    <string name="secure_payment">Secure Payment</string>
+    <string name="pay_amount">Pay %1$s</string>
+    
+    <!-- Order Confirmation Screen -->
+    <string name="order_confirmed">Order Confirmed!</string>
+    <string name="thank_you">Thank you for your purchase</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_number">Order Number</string>
+    <string name="delivery_method">Delivery Method</string>
+    <string name="estimated_delivery">Estimated Delivery</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="confirmation_email">A confirmation email has been sent to your registered email address</string>
+    
+    <!-- Order Summary -->
+    <string name="order_summary">Order Summary</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery">Delivery</string>
+</resources>
